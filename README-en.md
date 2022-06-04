@@ -1,6 +1,8 @@
 # PySSHClient-CUI
 This is the PySSHClient-CUI software for SSH connections.
 # How to use
+*The one in the image is the Japanese version.
+The actual one is optimized for the English version.
 ![](https://media.discordapp.net/attachments/953939348561199126/982549806062903336/unknown.png)
 When you run it, you should see a screen like the one in the image. Enter the IP address of the PC you are connecting to (or localhost if the PC you are opening PySSH on is the connection destination) in the Please enter the IP address of the server you are connecting to.
 Enter the port number of the server you wish to connect to. 22 is fine unless you have a specific reason to change it.
